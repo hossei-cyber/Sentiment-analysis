@@ -19,7 +19,7 @@ In this project, we leverage the power of AI and natural language processing (NL
 
 ## Installation
 
-To get started with this project, follow these steps:
+To get started with this project, follow the following steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
