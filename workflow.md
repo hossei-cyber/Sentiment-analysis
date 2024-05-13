@@ -19,20 +19,17 @@ This project aims to perform sentiment analysis on Amazon reviews using machine 
 ## Step 1: Data Collection
 ### Objective
 To gather a comprehensive dataset of Amazon reviews for sentiment analysis, ensuring a diverse and representative sample from various product categories.
+
 ### Tools and Technologies
-- **Amazon API**: For direct review fetching.
-- **Python Libraries**: `requests` (API calls), `pandas` (data manipulation), `BeautifulSoup` or `Scrapy` (web scraping if API is limited).
-### Steps
-1. **API Access**: Obtain access to the Amazon Product Advertising API or relevant endpoints.
-2. **Define Parameters**: Specify product categories and review date ranges.
-3. **Data Extraction**:
-   - Extract review text, ratings, review dates, user information, and product identifiers via API.
-   - Manage pagination in API requests to capture all necessary data.
-4. **Data Storage**:
-   - Store data in a structured format like CSV or a database for accessibility.
-5. **Data Validation**:
-   - Check data completeness and accuracy.
-   - Perform initial cleaning to remove corrupt or irrelevant entries.
+### Importing the libraries
+- import pandas as pd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+
+### Importing the Dataset
+- There are ready to work on Datasets available on the Internet, following I am sharing one as a suggestion, it has 4 product types (domains): Kitchen, books, DVDs, and Electronics, but feel free to find one, which you think is more relevant:
+https://www.cs.jhu.edu/~mdredze/datasets/sentiment/domain_sentiment_data.tar.gz.
 
 
 ## Step 2: Exploratory Data Analysis (EDA)
