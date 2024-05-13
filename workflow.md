@@ -27,6 +27,14 @@ To gather a comprehensive dataset of Amazon reviews for sentiment analysis, ensu
 - import matplotlib.pyplot as plt
 - import seaborn as sns
 
+- Python programming language
+  
+- Necessary libraries:
+Pandas: For data manipulation and analysis
+NumPy: For numerical computing
+Matplotlib & Seaborn: For data visualization
+Jupyter Notebook or any Python IDE for coding
+
 ### Importing the Dataset
 - There are ready to work on Datasets available on the Internet, following I am sharing one as a suggestion, it has 4 product types (domains): Kitchen, books, DVDs, and Electronics, but feel free to find one, which you think is more relevant:
 https://www.cs.jhu.edu/~mdredze/datasets/sentiment/domain_sentiment_data.tar.gz.
