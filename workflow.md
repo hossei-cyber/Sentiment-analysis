@@ -40,6 +40,7 @@ https://www.cs.jhu.edu/~mdredze/datasets/sentiment/domain_sentiment_data.tar.gz.
 - Remove duplicates, handle missing values, and discard irrelevant information.
 - Tokenize text data into words or phrases.
 - Apply normalization techniques like stemming or lemmatization.
+- To have an idea, see the article on [Geeks for Geeks: Amazon Product Reviews Sentiment Analysis in Python](https://www.geeksforgeeks.org/amazon-product-reviews-sentiment-analysis-in-python/).
 
 
 ## Step 3: Data Cleaning
