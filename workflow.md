@@ -21,19 +21,11 @@ This project aims to perform sentiment analysis on Amazon reviews using machine 
 To gather a comprehensive dataset of Amazon reviews for sentiment analysis, ensuring a diverse and representative sample from various product categories.
 
 ### Tools and Technologies
-### Importing the libraries
-- import pandas as pd
-- import numpy as np
-- import matplotlib.pyplot as plt
-- import seaborn as sns
-
 - Python programming language
-  
-- Necessary libraries:
-Pandas: For data manipulation and analysis
-NumPy: For numerical computing
-Matplotlib & Seaborn: For data visualization
-Jupyter Notebook or any Python IDE for coding
+### Importing the libraries  
+- Pandas: For data manipulation and analysis => import pandas as pd
+- NumPy: For numerical computing => import numpy as np
+- Matplotlib & Seaborn: For data visualization => import matplotlib.pyplot as plt | import seaborn as sns
 
 ### Importing the Dataset
 - There are ready to work on Datasets available on the Internet, following I am sharing one as a suggestion, it has 4 product types (domains): Kitchen, books, DVDs, and Electronics, but feel free to find one, which you think is more relevant:
